@@ -1,0 +1,7 @@
+{
+  "name": "Day of Week Card",
+  "description": "Displays the current day of the week with day-specific colors and a bundled script font. Tizen-compatible.",
+  "render_readme": true,
+  "filename": "day-of-week-card.js",
+  "content_in_root": false
+}
